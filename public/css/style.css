@@ -784,7 +784,7 @@ video {
   display: block;
 }
 
-.hover\:bg-slate-700:hover {
+.hover\:bg-gray-800:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(51 65 85 / var(--tw-bg-opacity));
 }
